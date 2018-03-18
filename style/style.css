@@ -4,7 +4,6 @@ body {
 }
 
 .page {
-
     background-color: #ffffff;
     margin: 0 auto;
     max-width: 1600px;
@@ -52,7 +51,6 @@ header {
 .menu li {
     margin: 4px;
     display: inline-block;
-
 }
 
 .menu li a {
@@ -97,7 +95,6 @@ header {
     position: relative;
     top: 500px;
     left: -165px;
-
 }
 
 .btn-header a {
@@ -230,4 +227,108 @@ header {
     line-height: 27px;
     left: 797px;
     top: 229px;
+}
+
+.gallery-section {
+    top: -180px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ffe92f;
+    height: 1536px;
+}
+
+.name-section-gallery {
+    left: 597px;
+    top: 100px;
+    position: relative;
+    width: 307px;
+    height: 87px;
+}
+
+.name-section-gallery p {
+    position: relative;
+    color: #262626;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 27px;
+}
+
+.short-section-text {
+    position: relative;
+    width: 577px;
+    height: 70px;
+    top: 120px;
+    left: 462px;
+}
+
+.short-section-text p {
+    color: #262626;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: center;
+}
+
+.photos {
+    position: absolute;
+    width: 100%;
+    top: 90px;
+    }
+
+.photo1 {
+    position: relative;
+    top: 231px;
+    left: 150px;
+    margin-top: 30px;
+
+}
+
+.photos2 {
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+    left: 930px;
+    top: -323px;
+}
+
+.photos2a {
+    position: relative;
+}
+
+
+
+.photos-next-section {
+    position: relative;
+    display: flex;
+    bottom: 240px;
+    left: 120px;
+}
+
+.photo3 {
+    margin-left: 30px;
+}
+
+.btn-section-gallery {
+    position: relative;
+    width: 230px;
+    height: 55px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    background-color: #5585a2;
+    top: -170px;
+    left: 650px;
+}
+
+.btn-section-gallery a {
+    position: relative;
+    width: 114px;
+    height: 15px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 27px;
+    text-transform: uppercase;
+    margin-left: 43px;
+    margin-right: 43px;
+    top: 10px;
 }
