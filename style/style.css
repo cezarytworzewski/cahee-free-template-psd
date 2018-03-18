@@ -118,3 +118,116 @@ header {
     top: 931px;
     left: -714px;
 }
+
+.first-main {
+    top: -90px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #00c4c4;
+    display: flex;
+}
+
+.second-background {
+    position: relative;
+    left: 175px;
+    top: 71px;
+    height: 700px;
+}
+
+.second-background img {
+    width: 566px;
+    height: 559px;
+    position: relative;
+}
+
+.text-next-header {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 260px;
+    top: 130px;
+}
+
+.big-text-2 {
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+.small-text-2 {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+.blue-with-tomatoe {
+    position: relative;
+    width: 100%;
+    background-color: #70bfff;
+    height: 790px;
+    top: -90px;
+}
+
+.shopping {
+    position: absolute;
+    top: 179px;
+    left: 265px;
+}
+
+.section-shop-1 {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.section-shop-1 p {
+    position: relative;
+    left: -41px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+}
+
+.line-shop {
+    position: relative;
+    top: 26px;
+    left: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.symbol-shop {
+    position: relative;
+    bottom: 50px;
+    left: 80px;
+}
+
+.tomatoe img {
+    position: relative;
+    width: 462px;
+    height: 527px;
+    left: 873px;
+    top: 100px;
+}
+
+.tomatoe p {
+    position: absolute;
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 27px;
+    left: 797px;
+    top: 229px;
+}
