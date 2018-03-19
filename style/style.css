@@ -447,11 +447,19 @@ header {
 footer {
     width: 100%;
     height: 90px;
-    background-color: #262626;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
+.footer {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #262626;
+    display: flex;
+}
+
 
 .footer1 {
     position: relative;
